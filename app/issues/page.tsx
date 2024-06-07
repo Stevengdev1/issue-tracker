@@ -8,3 +8,4 @@ const IssuesPage = () => {
 }
 
 export default IssuesPage
+
